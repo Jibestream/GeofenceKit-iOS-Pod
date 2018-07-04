@@ -1,0 +1,6 @@
+framework module GeofenceKit_iOS_Pod {
+  umbrella header "GeofenceKit-iOS-Pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

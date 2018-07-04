@@ -1,0 +1,16 @@
+PODS:
+  - GeofenceKit-iOS-Pod (0.1.0)
+
+DEPENDENCIES:
+  - GeofenceKit-iOS-Pod (from `../`)
+
+EXTERNAL SOURCES:
+  GeofenceKit-iOS-Pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GeofenceKit-iOS-Pod: 168883397ef9f2d0f240ec5a7e291fa9d8098a5a
+
+PODFILE CHECKSUM: e1bd34349a5e193bcab7aa0c1f6f2a305ca9bebf
+
+COCOAPODS: 1.5.3

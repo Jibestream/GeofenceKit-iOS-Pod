@@ -27,10 +27,10 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		6E3E7B41ED05731D591DDE6F /* Pods-GeofenceKit-iOS-Pod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GeofenceKit-iOS-Pod_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GeofenceKit-iOS-Pod_Tests/Pods-GeofenceKit-iOS-Pod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		6F3F9B4202F5C4E10F400FF8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6F3F9B4202F5C4E10F400FF8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		88103CA537BBCA9789238AF1 /* Pods-GeofenceKit-iOS-Pod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GeofenceKit-iOS-Pod_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GeofenceKit-iOS-Pod_Tests/Pods-GeofenceKit-iOS-Pod_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		A1C3F2D5A69DA18E49F114BD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		FF008CCB575522E1807E4F8D /* GeofenceKit-iOS-Pod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = "GeofenceKit-iOS-Pod.podspec"; path = "../GeofenceKit-iOS-Pod.podspec"; sourceTree = "<group>"; };
+		A1C3F2D5A69DA18E49F114BD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FF008CCB575522E1807E4F8D /* GeofenceKit-iOS-Pod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "GeofenceKit-iOS-Pod.podspec"; path = "../GeofenceKit-iOS-Pod.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
