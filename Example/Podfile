@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GeofenceKit-iOS-Pod_Tests' do
+  pod 'GeofenceKit-iOS-Pod', :path => '../'
+  
+  
+end
