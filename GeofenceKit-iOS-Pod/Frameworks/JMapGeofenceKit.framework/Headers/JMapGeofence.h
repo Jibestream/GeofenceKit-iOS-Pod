@@ -73,7 +73,7 @@
  *
  *  @param completionHandler returns error if error has occured with network request
  */
-- (void)getGeofences:(nonnull __attribute__((noescape)) void(^)(JMapError* _Nullable error))completionHandler;
+- (void)getGeofences:(void(^)(JMapError* _Nullable error))completionHandler;
 
 #pragma mark Get With Geofence Methods
 
