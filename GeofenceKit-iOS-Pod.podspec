@@ -7,7 +7,7 @@ s.version='1.0.1'
     
     s.homepage         = 'http://www.jibestream.com/'
     s.author           = { 'louie' => 'lyuen@jibestream.com' }
-    s.source           = { :git => 'https://github.com/louieyune/GeofenceKit-iOS-Pod.git', :tag => "#{s.version}" }
+    s.source           = { :git => 'https://github.com/Jibestream/GeofenceKit-iOS-Pod', :tag => "#{s.version}" }
     
     s.ios.deployment_target = '9.0'
     
