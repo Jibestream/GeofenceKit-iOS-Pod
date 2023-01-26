@@ -9,9 +9,9 @@ s.version='1.0.1'
     s.author           = { 'louie' => 'lyuen@jibestream.com' }
     s.source           = { :git => 'https://github.com/Jibestream/GeofenceKit-iOS-Pod', :tag => "#{s.version}" }
     
-    s.ios.deployment_target = '9.0'
+    s.ios.deployment_target = '10.0'
     
-    s.platform = :ios, '9.0'
-    s.vendored_frameworks = 'GeofenceKit-iOS-Pod/Frameworks/*.framework'
+    s.platform = :ios, '10.0'
+    s.vendored_frameworks = 'GeofenceKit-iOS-Pod/Frameworks/*.xcframework'
     
 end
