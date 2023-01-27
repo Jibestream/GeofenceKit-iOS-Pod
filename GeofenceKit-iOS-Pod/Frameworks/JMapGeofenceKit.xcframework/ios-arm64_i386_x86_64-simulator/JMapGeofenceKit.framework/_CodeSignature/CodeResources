@@ -4,6 +4,26 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/JMapGeofence.h</key>
+		<data>
+		Fkm6uWg1UQjKGhWa4/CrC2+Kz4g=
+		</data>
+		<key>Headers/JMapGeofenceCollection.h</key>
+		<data>
+		ZgDf915DPUhaX3LH4irVpZlASlU=
+		</data>
+		<key>Headers/JMapGeofenceInstance.h</key>
+		<data>
+		WqyUj/aHjNaEFIyCI16+NOx/g20=
+		</data>
+		<key>Headers/JMapGeofenceKit.h</key>
+		<data>
+		RhH6qVgMjHr06boRc/4r9pi+wSA=
+		</data>
+		<key>Headers/JMapGeofenceObject.h</key>
+		<data>
+		Gyr4p6D6y+HcOSDPhlhioUa+Y7M=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		PhsKAcZntGTqVsdYEFSPc4nTkKA=
@@ -15,6 +35,61 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/JMapGeofence.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Fkm6uWg1UQjKGhWa4/CrC2+Kz4g=
+			</data>
+			<key>hash2</key>
+			<data>
+			e+s8ILzQ3xkkvAPpOS7v/r4W6mQXApmpROeJ13J96oE=
+			</data>
+		</dict>
+		<key>Headers/JMapGeofenceCollection.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZgDf915DPUhaX3LH4irVpZlASlU=
+			</data>
+			<key>hash2</key>
+			<data>
+			a7CChKfPyt/kyB8ntZCEwk6Z+/i0dWB5SyJMTCXCT6I=
+			</data>
+		</dict>
+		<key>Headers/JMapGeofenceInstance.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WqyUj/aHjNaEFIyCI16+NOx/g20=
+			</data>
+			<key>hash2</key>
+			<data>
+			WP3zwTL+uNtRtE6Pr/oo+etyIR4tEf0nX1coFo02j24=
+			</data>
+		</dict>
+		<key>Headers/JMapGeofenceKit.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RhH6qVgMjHr06boRc/4r9pi+wSA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/JW6ySDMzbG+8gniXWklKdRd6XNA/qEkSsehuN+5S2c=
+			</data>
+		</dict>
+		<key>Headers/JMapGeofenceObject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gyr4p6D6y+HcOSDPhlhioUa+Y7M=
+			</data>
+			<key>hash2</key>
+			<data>
+			5DleJT/D/sXf/ASGQRSvlPZoSm+Nbh23KirifIEPGZ0=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
