@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'GeofenceKit-iOS-Pod'
-s.version='1.0.1'
+s.version='1.1.0'
     s.summary          = 'The GeofenceKit-iOS-Pod for the Jibestream iOS SDK.'
     
     s.description      = 'This CocoaPod provides the release version of the GeofenceKit for the Jibestream iOS SDK.'

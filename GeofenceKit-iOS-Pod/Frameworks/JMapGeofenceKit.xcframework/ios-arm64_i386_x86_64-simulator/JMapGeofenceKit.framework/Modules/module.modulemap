@@ -1,0 +1,6 @@
+framework module JMapGeofenceKit {
+  umbrella header "JMapGeofenceKit.h"
+
+  export *
+  module * { export * }
+}
