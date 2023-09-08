@@ -10,7 +10,7 @@ s.version='1.1.0'
     s.source           = { :git => 'https://github.com/Jibestream/GeofenceKit-iOS-Pod', :tag => "#{s.version}" }
     
     s.ios.deployment_target = '10.0'
-    
+    s.dependency "JMapiOSSDK"
     s.platform = :ios, '9.0'
     s.vendored_frameworks = 'GeofenceKit-iOS-Pod/Frameworks/*.xcframework'
     
